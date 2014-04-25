@@ -40,5 +40,9 @@
 #  undef MONGOC_ENABLE_SASL
 #endif
 
+/*
+ * Set dir for mongoc tests
+ */
+#define BINARY_DIR "data"
 
 #endif /* MONGOC_CONFIG_H */
