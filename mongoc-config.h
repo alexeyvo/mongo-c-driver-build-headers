@@ -43,6 +43,7 @@
 /*
  * Set dir for mongoc tests
  */
+#undef BINARY_DIR
 #define BINARY_DIR "../../../__submodules/mongo-c-driver/tests/binary"
 
 #endif /* MONGOC_CONFIG_H */
