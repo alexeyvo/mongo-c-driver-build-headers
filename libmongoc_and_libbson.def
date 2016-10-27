@@ -439,3 +439,4 @@ bson_writer_new
 bson_writer_rollback
 bson_zero_free
 bson_alloc
+bson_mem_set_vtable
